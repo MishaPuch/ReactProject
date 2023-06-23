@@ -11,20 +11,6 @@
   grid-template-columns: 2fr 10fr ;
   /* grid-gap: 10px; */
 }
-.header{
-  grid-area: h;
-  background-color: #4B6871;
-}
-.header img{
-  width: 80px;
-}
-.content{
-  grid-area: c;
-  background-color: #483824;
 
-}
 
-.nav{
-  grid-area: n;
-  background-color: #A2988C;
-}
+
